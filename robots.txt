@@ -1,0 +1,8 @@
+# robots.txt - Apple Sun Outbound Batu
+# https://outboundapplesun.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://outboundapplesun.com/sitemap.xml

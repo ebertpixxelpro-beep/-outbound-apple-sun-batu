@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://outboundapplesun.com/</loc>
+    <lastmod>2024-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://outboundapplesun.com/img/Gemini_Generated_Image_112znc112znc112.jpeg</image:loc>
+      <image:title>Outbound Apple Sun Kota Batu - Provider Team Building Profesional</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog: Detail 1 -->
+  <url>
+    <loc>https://outboundapplesun.com/blog/detail-1.html</loc>
+    <lastmod>2024-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://outboundapplesun.com/img/Gemini_Generated_Image_26kbz926kbz926k.jpeg</image:loc>
+      <image:title>Mengapa Outbound Penting untuk Perusahaan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog: Detail 2 -->
+  <url>
+    <loc>https://outboundapplesun.com/blog/detail-2.html</loc>
+    <lastmod>2024-02-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://outboundapplesun.com/img/Gemini_Generated_Image_292rsd292rsd292.jpeg</image:loc>
+      <image:title>Keseruan Gathering PT Maju Bersama di Apple Sun</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog: Detail 3 -->
+  <url>
+    <loc>https://outboundapplesun.com/blog/detail-3.html</loc>
+    <lastmod>2024-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://outboundapplesun.com/img/Gemini_Generated_Image_6bjc6k6bjc6k6bj.jpeg</image:loc>
+      <image:title>Jenis-jenis Apel Unggulan di Kota Batu</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog: Detail 4 -->
+  <url>
+    <loc>https://outboundapplesun.com/blog/detail-4.html</loc>
+    <lastmod>2024-02-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://outboundapplesun.com/img/Gemini_Generated_Image_7897wi7897wi789.jpeg</image:loc>
+      <image:title>Arung Jeram Sungai Brantas Batu</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog: Detail 5 -->
+  <url>
+    <loc>https://outboundapplesun.com/blog/detail-5.html</loc>
+    <lastmod>2024-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://outboundapplesun.com/img/Gemini_Generated_Image_fbon91fbon91fbo.jpeg</image:loc>
+      <image:title>Kerjasama Tim Lewat Simulasi Paintball</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog: Detail 6 -->
+  <url>
+    <loc>https://outboundapplesun.com/blog/detail-6.html</loc>
+    <lastmod>2024-02-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://outboundapplesun.com/img/Gemini_Generated_Image_fxcqmyfxcqmyfxc.jpeg</image:loc>
+      <image:title>Melatih Kepemimpinan Melalui Tantangan Alam</image:title>
+    </image:image>
+  </url>
+
+</urlset>
